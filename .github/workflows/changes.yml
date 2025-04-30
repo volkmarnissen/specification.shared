@@ -3,7 +3,11 @@ name: On push Update Changes.md
 on:
   push:
   workflow_call:
-
+    inputs:
+      dependencies:
+        required: false
+        type: string
+        default: ""
 permissions:
   contents: write
 jobs:
@@ -23,6 +27,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output: CHANGELOG.md
           headerLabel: "# Changelog for ${{github.event.repository.name}}"
+      - name: "Update package-lock.json"
+        if: ${{inputs.dependencies !='' }}
+        run: npm update ${{inputs.dependencies}} 
       - name: Checkin CHANGELOG.md
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
