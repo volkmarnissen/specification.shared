@@ -1,52 +1,72 @@
 # Changelog for specification.shared
 
-## [v0.10.10](https://github.com/volkmarnissen/specification.shared/tree/v0.10.10) (2025-01-15)
+## [Unreleased](https://github.com/modbus2mqtt/specification.shared/tree/HEAD)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.9...v0.10.10)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.11...HEAD)
 
-## [v0.10.9](https://github.com/volkmarnissen/specification.shared/tree/v0.10.9) (2025-01-01)
+**Merged pull requests:**
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.8...v0.10.9)
+- Modbus Error Handling and Monitoring [\#3](https://github.com/modbus2mqtt/specification.shared/pull/3) ([volkmarnissen](https://github.com/volkmarnissen))
 
-## [v0.10.8](https://github.com/volkmarnissen/specification.shared/tree/v0.10.8) (2024-12-13)
+## [v0.10.11](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.11) (2025-04-14)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.7...v0.10.8)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.10...v0.10.11)
 
-## [v0.10.7](https://github.com/volkmarnissen/specification.shared/tree/v0.10.7) (2024-12-01)
+## [v0.10.10](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.10) (2025-01-15)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.6...v0.10.7)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.9...v0.10.10)
 
-## [v0.10.6](https://github.com/volkmarnissen/specification.shared/tree/v0.10.6) (2024-11-14)
+**Merged pull requests:**
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.5...v0.10.6)
+- Adding DiscreteInputs to ModbusRegisterType [\#2](https://github.com/modbus2mqtt/specification.shared/pull/2) ([arturmietek](https://github.com/arturmietek))
 
-## [v0.10.5](https://github.com/volkmarnissen/specification.shared/tree/v0.10.5) (2024-10-22)
+## [v0.10.9](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.9) (2025-01-01)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.4...v0.10.5)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.8...v0.10.9)
 
-## [v0.10.4](https://github.com/volkmarnissen/specification.shared/tree/v0.10.4) (2024-10-16)
+**Merged pull requests:**
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.3...v0.10.4)
+- Adding signed int 32 and unsigned int 32 types [\#1](https://github.com/modbus2mqtt/specification.shared/pull/1) ([arturmietek](https://github.com/arturmietek))
 
-## [v0.10.3](https://github.com/volkmarnissen/specification.shared/tree/v0.10.3) (2024-10-14)
+## [v0.10.8](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.8) (2024-12-13)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.2...v0.10.3)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.7...v0.10.8)
 
-## [v0.10.2](https://github.com/volkmarnissen/specification.shared/tree/v0.10.2) (2024-10-08)
+## [v0.10.7](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.7) (2024-12-01)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.1...v0.10.2)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.6...v0.10.7)
 
-## [v0.10.1](https://github.com/volkmarnissen/specification.shared/tree/v0.10.1) (2024-09-24)
+## [v0.10.6](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.6) (2024-11-14)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.10.0...v0.10.1)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.5...v0.10.6)
 
-## [v0.10.0](https://github.com/volkmarnissen/specification.shared/tree/v0.10.0) (2024-08-16)
+## [v0.10.5](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.5) (2024-10-22)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/v0.9.0...v0.10.0)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.4...v0.10.5)
 
-## [v0.9.0](https://github.com/volkmarnissen/specification.shared/tree/v0.9.0) (2024-08-05)
+## [v0.10.4](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.4) (2024-10-16)
 
-[Full Changelog](https://github.com/volkmarnissen/specification.shared/compare/fff40d504257de7e83c407e8cfb0afa65c1ebb53...v0.9.0)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.3...v0.10.4)
+
+## [v0.10.3](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.3) (2024-10-14)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.2...v0.10.3)
+
+## [v0.10.2](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.2) (2024-10-08)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.1...v0.10.2)
+
+## [v0.10.1](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.1) (2024-09-24)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.0...v0.10.1)
+
+## [v0.10.0](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.0) (2024-08-16)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.9.0...v0.10.0)
+
+## [v0.9.0](https://github.com/modbus2mqtt/specification.shared/tree/v0.9.0) (2024-08-05)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/fff40d504257de7e83c407e8cfb0afa65c1ebb53...v0.9.0)
 
 
 
